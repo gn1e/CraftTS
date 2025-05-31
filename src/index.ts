@@ -1,8 +1,5 @@
-import type { ServerClient, Server } from 'minecraft-protocol';
-import { v4 as uuidv4 } from 'uuid';
 import mc from 'minecraft-protocol';
 import minecraftData from 'minecraft-data';
-import nbt from 'prismarine-nbt';
 import dotenv from 'dotenv';
 import logger from './utils/logger';
 
