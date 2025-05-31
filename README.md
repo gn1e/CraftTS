@@ -1,15 +1,11 @@
-# craftts
+# CraftTS
 
-To install dependencies:
+A Minecraft server made in TypeScript.
 
-```bash
-bun install
-```
 
-To run:
+Functions:
+* Basic logging in
 
-```bash
-bun run index.ts
-```
 
-This project was created using `bun init` in bun v1.2.15. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Example:
+![ye](https://raw.githubusercontent.com/gn1e/CraftTS/refs/heads/main/img/image.png)
