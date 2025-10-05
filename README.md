@@ -1,4 +1,4 @@
-# CraftTS
+# CraftTS, CURRENTLY NOT WORKING, ILL FINISH THE RECODE SOON!
 
 A Minecraft server made in TypeScript.
 
